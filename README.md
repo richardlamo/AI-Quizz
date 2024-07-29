@@ -46,7 +46,7 @@
 
 Instead of me giving step by step details on how to use this. Here's a little video to show how to use it. Click the image below.
 
-<video src="https://youtu.be/2e4f1W8ybdE?si=a6Fs52DkeaVf3yDY">
+<video src="https://youtu.be/2e4f1W8ybdE?si=a6Fs52DkeaVf3yDY"/>
 [Watch the video](https://youtu.be/2e4f1W8ybdE?si=a6Fs52DkeaVf3yDY)
 
 ## License

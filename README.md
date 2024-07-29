@@ -44,10 +44,10 @@
 
 ## Usage
 
-Instead of me giving step by step details on how to use this. Here's a little video to show how to use it.
+Instead of me giving step by step details on how to use this. Here's a little video to show how to use it. Click the image below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2e4f1W8ybdE?si=5LHxnDIRuyKXHp7H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[![Watch the video](./images/thumbnail.png)](https://youtu.be/2e4f1W8ybdE?si=a6Fs52DkeaVf3yDY)
+[Watch the video](https://youtu.be/2e4f1W8ybdE?si=a6Fs52DkeaVf3yDY)
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -73,7 +73,7 @@ All contributions are appreciated. It all helps me by bettering the world throug
 **Explain how to use the project.**
 
 
-* **Basic usage:** Provide simple examples.
+* **Basic usage:** Provide simple examples. 
 * **Advanced usage:** Describe more complex use cases.
 * **API reference:** Link to API documentation if applicable.
 
